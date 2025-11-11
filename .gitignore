@@ -49,8 +49,11 @@ Thumbs.db
 *.bak
 *.swp
 
+# Podcast audio files and directories
+podcasts/
+
 # Large PDF files (if needed, can be added separately)
-# Content_Creator_BootCamp_AS.pdf
+*.pdf
 
 # Gemini API upload files
 files/
