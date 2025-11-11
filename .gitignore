@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Audio files (too large for git)
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+# Transcription files (can be regenerated)
+transcriptions/
+*.txt
+!requirements.txt
+
+# Logs
+*.log
+*_log.txt
+auto_task_log.txt
+auto_workflow_log.txt
+transcription_log.txt
+download_log.txt
+
+# API keys and secrets
+.env
+*.key
+*_api_key.txt
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Large PDF files (if needed, can be added separately)
+# Content_Creator_BootCamp_AS.pdf
+
+# Gemini API upload files
+files/
+
