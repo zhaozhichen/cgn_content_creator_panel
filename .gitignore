@@ -15,9 +15,9 @@ ENV/
 *.m4a
 *.flac
 
-# Transcription files (can be regenerated)
-transcriptions/
-*.txt
+# Transcription files - we want to include these
+# transcriptions/  # Commented out to allow transcriptions
+# *.txt  # Commented out to allow transcription .txt files
 !requirements.txt
 
 # Logs
