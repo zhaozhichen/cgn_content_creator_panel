@@ -14,8 +14,15 @@ except ImportError:
     print("请安装 google-generativeai")
     sys.exit(1)
 
-# Gemini API配置
-GEMINI_API_KEY = "REMOVED_API_KEY"
+# Gemini API配置 - 从环境变量读取
+import os
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not GEMINI_API_KEY:
+    print("❌ 错误: 未设置 GEMINI_API_KEY 环境变量")
+    print("   请设置: export GEMINI_API_KEY='your-api-key'")
+    sys.exit(1)
+
 genai.configure(api_key=GEMINI_API_KEY)
 
 # 其他3位嘉宾信息

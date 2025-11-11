@@ -16,8 +16,13 @@ except ImportError:
     print("请安装 google-generativeai: pip install google-generativeai")
     sys.exit(1)
 
-# Gemini API配置
-GEMINI_API_KEY = "REMOVED_API_KEY"
+# Gemini API配置 - 从环境变量读取
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not GEMINI_API_KEY:
+    print("❌ 错误: 未设置 GEMINI_API_KEY 环境变量")
+    print("   请设置: export GEMINI_API_KEY='your-api-key'")
+    sys.exit(1)
 
 def setup_gemini():
     """配置Gemini API"""
@@ -40,8 +45,10 @@ def transcribe_audio_with_gemini(audio_file: Path, output_file: Path = None) -> 
     # 如果超过限制，可能需要使用其他方法
     
     try:
-        # 初始化Gemini
-        genai.configure(api_key=GEMINI_API_KEY)
+        # 初始化Gemini (已在setup_gemini中配置)
+        if not GEMINI_API_KEY:
+            print("  ❌ 错误: GEMINI_API_KEY 未设置")
+            return None
         
         # 上传音频文件
         print(f"  上传音频文件到Gemini...")

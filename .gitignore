@@ -30,9 +30,13 @@ download_log.txt
 
 # API keys and secrets
 .env
+.env.local
+.env.*.local
 *.key
 *_api_key.txt
 config.json
+*secrets*.json
+*credentials*.json
 
 # OS files
 .DS_Store
