@@ -299,12 +299,19 @@ def main():
         {
             'id': '61dd99a47b29652ff572257b',
             'name': '起朱楼宴宾客_翁放'
+        },
+        {
+            'id': '61358d971c5d56efe5bcb5d2',
+            'name': '乱翻书_潘乱'
+        },
+        {
+            'id': '61a3847fc9d6793ec50e0e65',
+            'name': '正面连接_曾鸣'
         }
     ]
     
     output_dir = Path(__file__).parent.parent / "podcasts"
-    limit = 10  # 总共需要10期
-    additional_limit = 7  # 需要额外下载7期
+    limit = 10  # 每个播客下载10期
     
     all_downloaded = {}
     
@@ -312,9 +319,9 @@ def main():
         downloaded = download_podcast_episodes(
             podcast['id'],
             podcast['name'],
-            limit=additional_limit,  # 只下载额外的7期
+            limit=limit,
             output_dir=output_dir,
-            skip_existing=True  # 跳过已下载的3期
+            skip_existing=True  # 跳过已下载的
         )
         all_downloaded[podcast['name']] = downloaded
         time.sleep(3)

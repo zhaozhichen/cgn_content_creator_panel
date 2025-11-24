@@ -1,0 +1,12 @@
+根据您的描述，以下是Stable Diffusion的提示词和图片想象：
+
+1.  **Stable Diffusion 正面提示词 (Positive Prompt):**
+    `A huge, precise Hubble Space Telescope, with golden antennae and shimmering solar panels, floating gracefully in the vast blackness of space. Surrounded by a myriad of twinkling stars, forming a beautiful, intricate starry background. A group of astronauts in bulky white spacesuits are actively performing extravehicular activity (EVA), each equipped with tools and tethered to the spacecraft with safety cables, diligently inspecting and repairing the telescope. Highly detailed, technologically advanced, mysterious, awe-inspiring. Cinematic lighting, realistic rendering.`
+
+2.  **Stable Diffusion 反向提示词 (Negative Prompt):**
+    `low quality, worst quality, bad quality, poor quality, blurry, pixelated, noisy, grainy, jpeg artifacts, unrealistic, cartoon, anime, drawing, painting, sketch, deformed, mutated, extra limbs, missing limbs, bad hands, bad fingers, dull colors, gloomy, clutter, too bright, text, watermark, signature, logo.`
+
+3.  **一张想象中的图片:**
+    图片呈现的是哈勃太空望远镜在深邃的宇宙中进行维修的壮观景象。望远镜是画面的核心，它庞大而精密，银白色的主体结构与金色的天线形成鲜明对比，闪烁的太阳能电池板反射着遥远的光芒。在它周围，是无边无际的黑色太空，点缀着数不清的璀璨星辰，构成一片浩瀚而美丽的星空背景。
+
+    三到四名宇航员身穿笨重的白色宇航服，正忙碌地在太空舱外工作。他们每个人都配备着各种工具，并用线缆安全地固定在太空舱上，全神贯注地检查和修理望远镜的精密部件。头盔的面罩上反射着周围的星光和望远镜的金属光泽。整个画面充满了未来科技感和宇宙的神秘魅力，引人无限遐想。
