@@ -36,14 +36,14 @@ For panel discussion introduction
 
 ## Xiang Li
 
-**Title**: Author of 'Detailed Conversations' series, Host of 'High Energy' podcast
+**Title**: Senior media professional, Founder and Host of 'High Energy' podcast, Author of 'Detailed Conversations' series
 
 **Podcast**: 高能量
 
 **Highlights**:
 
-- 'Detailed Conversations' series sold over 500,000 copies
-- Podcast 'High Energy' reexamines everyday phenomena through business lens
+- 'Detailed Conversations' series sold over 500,000 copies, recording contemporary business history through in-depth dialogues
+- 'High Energy' podcast continues this exploration spirit, reexamining everyday phenomena through a business lens, seeking the 'high energy' forces driving China's economic and cultural transformation
 - Deep dialogues with business practitioners and value creators
 - Focuses on personal growth, career transitions, and industry trends
 
@@ -51,14 +51,14 @@ For panel discussion introduction
 
 ## David Weng
 
-**Title**: Host of '起朱楼宴宾客' podcast
+**Title**: Financial commentator and content creator, Host of '起朱楼宴宾客' podcast
 
 **Podcast**: 起朱楼宴宾客
 
 **Highlights**:
 
-- Podcast focuses on investment and finance insights
-- Over 500,000 subscribers
+- Long-term focus on China's investment and finance sector, exploring market trends and business logic through in-depth dialogues with industry insiders
+- Podcast known for sincere and sharp dialogue style, with over 500,000 cumulative subscribers
 - Observes international talent and capital competition through multi-regional perspectives
 - Expert in macro trend analysis and cross-cultural observations
 
@@ -66,14 +66,14 @@ For panel discussion introduction
 
 ## Luan Pan
 
-**Title**: Founder and Host of 'Luan Books' podcast
+**Title**: Self-media creator, Founder and Host of 'Luan Books' podcast
 
 **Podcast**: 乱翻书
 
 **Highlights**:
 
-- 2018 article 'Tencent Without Dreams' became viral with over 10 million views
-- Podcast 'Luan Books' has over 1 million subscribers
+- Published 'Tencent Without Dreams' in 2018, with over 10 million reads, sparking widespread discussion
+- The 'Luan Books' podcast continues this spirit of inquiry through in-depth dialogues exploring business, technology, and transformative forces in contemporary China
 - Deep dialogues on business and technology topics
 - Expert at challenging conventional wisdom and revealing underlying trends
 
@@ -81,26 +81,29 @@ For panel discussion introduction
 
 ## Ming Zeng
 
-**Title**: Zhihu-related (Position to be confirmed)
+**Title**: Founder of independent media 'Positive Connection'
+
+**Podcast**: 正面连接
 
 **Highlights**:
 
-- Zhihu related - AI technology and entrepreneurship
-- Focuses on AI technology innovation and commercialization
-- Deep involvement in AI technology and entrepreneurship
+- 'Positive Connection' focuses on in-depth non-fiction and feature storytelling, with three articles garnering over 3 million cumulative reads within the first year
+- Zeng Ming and team record contemporary China's social and cultural dynamics with nuanced humanistic perspectives, presenting socially relevant issues and character stories
+- Focuses on deep content creation and humanistic care
+- Expert in non-fiction writing and feature storytelling
 
 ---
 
 ## Selina Zhang
 
-**Title**: Vice President of Zhihu, Founder of Positive Connection
+**Title**: Vice President of Zhihu
 
 **Highlights**:
 
-- Zhihu is China's leading Q&A and news aggregation platform
-- Positive Connection dedicated to in-depth non-fiction storytelling
-- Top three articles garnered over 3 million views within a year
-- Focuses on content authenticity, humanistic care, and information ecosystem
+- Zhihu is China's leading social Q&A and content sharing platform
+- Since its official launch in 2011, Zhihu has grown rapidly: 10 million registered users in 2013, 17 million in 2015, with approximately 250 million monthly page views
+- In 2022, Zhihu achieved dual listing on the Hong Kong Stock Exchange and New York Stock Exchange
+- Focuses on content platform operations, community building, and user experience
 
 ---
 

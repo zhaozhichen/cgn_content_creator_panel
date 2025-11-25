@@ -28,7 +28,7 @@ Bilingual guest profiles for panel introduction
 
 ## 李路野 / Luye Li
 
-**职位 / Title**: 有知有行营销负责人 / Marketing Manager of Youzhi Youxing
+**职位 / Title**: 「有知有行」市场经理 / Marketing Manager of Youzhi Youxing
 
 **播客 / Podcast**: 知行小酒馆
 
@@ -50,17 +50,17 @@ Bilingual guest profiles for panel introduction
 
 ## 李翔 / Xiang Li
 
-**职位 / Title**: 《详谈》丛书作者、《高能量》主理人 / Author of 'Detailed Conversations' series, Host of 'High Energy' podcast
+**职位 / Title**: 资深媒体人，「高能量」播客创始人兼主播，《详谈》系列作者 / Senior media professional, Founder and Host of 'High Energy' podcast, Author of 'Detailed Conversations' series
 
 **播客 / Podcast**: 高能量
 
 **亮点 / Highlights**:
 
-1. **中文**: 《详谈》系列销量超过50万册，记录当代商业历史
-   **English**: 'Detailed Conversations' series sold over 500,000 copies
+1. **中文**: 《详谈》系列畅销逾五十万册，以深度对话的方式记录当代商业史，呈现中国企业家与创新者的思考与成长
+   **English**: 'Detailed Conversations' series sold over 500,000 copies, recording contemporary business history through in-depth dialogues
 
-2. **中文**: 播客《高能量》从商业观察者视角重新理解日常现象
-   **English**: Podcast 'High Energy' reexamines everyday phenomena through business lens
+2. **中文**: 「高能量」播客延续这种探索精神，以商业视角重新审视日常现象，探寻推动中国经济与文化变革的"高能量"力量
+   **English**: 'High Energy' podcast continues this exploration spirit, reexamining everyday phenomena through a business lens, seeking the 'high energy' forces driving China's economic and cultural transformation
 
 3. **中文**: 深度对话商业实践者和价值创造者
    **English**: Deep dialogues with business practitioners and value creators
@@ -72,17 +72,17 @@ Bilingual guest profiles for panel introduction
 
 ## 翁放 / David Weng
 
-**职位 / Title**: 《起朱楼宴宾客》主播 / Host of '起朱楼宴宾客' podcast
+**职位 / Title**: 财经评论人、内容创作者，「起朱楼宴宾客」播客主播 / Financial commentator and content creator, Host of '起朱楼宴宾客' podcast
 
 **播客 / Podcast**: 起朱楼宴宾客
 
 **亮点 / Highlights**:
 
-1. **中文**: 播客聚焦投资和金融洞察，对话金融界内行
-   **English**: Podcast focuses on investment and finance insights
+1. **中文**: 长期关注中国的投资与金融领域，通过与行业内部人士的深度对话，探讨市场趋势与商业逻辑
+   **English**: Long-term focus on China's investment and finance sector, exploring market trends and business logic through in-depth dialogues with industry insiders
 
-2. **中文**: 订阅量超过50万
-   **English**: Over 500,000 subscribers
+2. **中文**: 播客以真诚而犀利的对谈风格著称，累计订阅用户超过五十万
+   **English**: Podcast known for sincere and sharp dialogue style, with over 500,000 cumulative subscribers
 
 3. **中文**: 通过不同地域视角洞察国际间人才和资本竞争
    **English**: Observes international talent and capital competition through multi-regional perspectives
@@ -94,17 +94,17 @@ Bilingual guest profiles for panel introduction
 
 ## 潘乱 / Luan Pan
 
-**职位 / Title**: 《乱翻书》主播 / Founder and Host of 'Luan Books' podcast
+**职位 / Title**: 自媒体人，「乱翻书」播客创始人兼主播 / Self-media creator, Founder and Host of 'Luan Books' podcast
 
 **播客 / Podcast**: 乱翻书
 
 **亮点 / Highlights**:
 
-1. **中文**: 2018年《腾讯没有梦想》成为现象级爆款
-   **English**: 2018 article 'Tencent Without Dreams' became viral with over 10 million views
+1. **中文**: 2018年发表《腾讯没有梦想》文章，阅读量超过一千万，引发广泛讨论
+   **English**: Published 'Tencent Without Dreams' in 2018, with over 10 million reads, sparking widespread discussion
 
-2. **中文**: 播客《乱翻书》订阅量超过100万
-   **English**: Podcast 'Luan Books' has over 1 million subscribers
+2. **中文**: 「乱翻书」播客延续这一思考精神，通过与嘉宾的深入对谈，探讨商业、科技与当代中国的变革力量
+   **English**: The 'Luan Books' podcast continues this spirit of inquiry through in-depth dialogues exploring business, technology, and transformative forces in contemporary China
 
 3. **中文**: 通过对话深入探讨商业和科技话题
    **English**: Deep dialogues on business and technology topics
@@ -116,38 +116,43 @@ Bilingual guest profiles for panel introduction
 
 ## 曾鸣 / Ming Zeng
 
-**职位 / Title**: 智谱AI相关（需确认具体职位） / Zhihu-related (Position to be confirmed)
+**职位 / Title**: 独立媒体「正面连接」创始人 / Founder of independent media 'Positive Connection'
+
+**播客 / Podcast**: 正面连接
 
 **亮点 / Highlights**:
 
-1. **中文**: 智谱AI在基础模型领域是先行者
-   **English**: Zhihu related - AI technology and entrepreneurship
+1. **中文**: 「正面连接」专注于深度非虚构与专题叙事，创立一年内三篇文章累计阅读量超过三百万
+   **English**: 'Positive Connection' focuses on in-depth non-fiction and feature storytelling, with three articles garnering over 3 million cumulative reads within the first year
 
-2. **中文**: 关注AI技术创新与商业落地
-   **English**: Focuses on AI technology innovation and commercialization
+2. **中文**: 曾鸣与团队以细腻的人文视角记录当代中国的社会与文化脉动，呈现具有现实意义的社会议题与人物故事
+   **English**: Zeng Ming and team record contemporary China's social and cultural dynamics with nuanced humanistic perspectives, presenting socially relevant issues and character stories
 
-3. **中文**: 深耕AI技术和创业领域
-   **English**: Deep involvement in AI technology and entrepreneurship
+3. **中文**: 关注深度内容创作和人文关怀
+   **English**: Focuses on deep content creation and humanistic care
+
+4. **中文**: 擅长非虚构写作和专题叙事
+   **English**: Expert in non-fiction writing and feature storytelling
 
 ---
 
 ## 张晶 / Selina Zhang
 
-**职位 / Title**: 知乎副总裁、正面连接创始人 / Vice President of Zhihu, Founder of Positive Connection
+**职位 / Title**: 知乎副总裁 / Vice President of Zhihu
 
 **亮点 / Highlights**:
 
-1. **中文**: 知乎是中国领先的问答和新闻聚合平台
-   **English**: Zhihu is China's leading Q&A and news aggregation platform
+1. **中文**: 知乎是中国领先的社交问答与内容分享平台
+   **English**: Zhihu is China's leading social Q&A and content sharing platform
 
-2. **中文**: 正面连接专注于深度非虚构和特稿写作
-   **English**: Positive Connection dedicated to in-depth non-fiction storytelling
+2. **中文**: 自2011年正式上线以来，知乎快速成长，2013年注册用户突破一千万，2015年达到一千七百万，月浏览量约两亿五千万次
+   **English**: Since its official launch in 2011, Zhihu has grown rapidly: 10 million registered users in 2013, 17 million in 2015, with approximately 250 million monthly page views
 
-3. **中文**: 前三大文章在一年内获得超过300万观看量
-   **English**: Top three articles garnered over 3 million views within a year
+3. **中文**: 2022年，知乎实现港交所与纽交所双重上市
+   **English**: In 2022, Zhihu achieved dual listing on the Hong Kong Stock Exchange and New York Stock Exchange
 
-4. **中文**: 关注内容真实性、人文关怀和信息生态
-   **English**: Focuses on content authenticity, humanistic care, and information ecosystem
+4. **中文**: 关注内容平台运营、社区建设和用户体验
+   **English**: Focuses on content platform operations, community building, and user experience
 
 ---
 
