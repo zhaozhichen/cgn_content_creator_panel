@@ -95,6 +95,10 @@ For panel discussion introduction
 - Adheres to the creative philosophy of "facing complexity directly, not consuming emotions, not using gimmicks," committed to "giving names to nameless feelings"
 - Invests in content quality without regard to cost, believes content monetization is the only attractive business model
 - Focuses on deep content creation and humanistic care, expert in non-fiction writing and feature storytelling
+- Left 'Southern Weekend' in 2014, worked at 'GQ' for six years, rising from reporter to editor-in-chief in 2018
+- Founded 'Positive Connection' in 2021 with investment from Zixin Capital, planning 5-8 years to build team and achieve content monetization
+- Representative works include '2557 Days with Hengshui High School', 'Two Worlds: Father and the Suicidal Teenager', 'My Friend Pang Mailang'
+- Emphasizes long-termism, believes quality content media's competitive edge lies in long-term cultivation of high-quality teams and systematic standards
 
 ---
 

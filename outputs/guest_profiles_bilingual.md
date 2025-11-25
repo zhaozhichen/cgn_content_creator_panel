@@ -146,6 +146,18 @@ Bilingual guest profiles for panel introduction
 6. **中文**: 关注深度内容创作和人文关怀，擅长非虚构写作和专题叙事
    **English**: Focuses on deep content creation and humanistic care, expert in non-fiction writing and feature storytelling
 
+7. **中文**: 2014年离开《南方周末》，在《GQ》工作六年，从记者、主笔到主编，2018年成为主编
+   **English**: Left 'Southern Weekend' in 2014, worked at 'GQ' for six years, rising from reporter to editor-in-chief in 2018
+
+8. **中文**: 2021年创立「正面连接」，获得致信资本投资，计划通过5-8年培养团队，实现内容付费模式
+   **English**: Founded 'Positive Connection' in 2021 with investment from Zixin Capital, planning 5-8 years to build team and achieve content monetization
+
+9. **中文**: 代表作包括《和衡水中学在一起的2557天》、《两个世界：父亲与自杀的少年》、《我的朋友庞麦郎》等
+   **English**: Representative works include '2557 Days with Hengshui High School', 'Two Worlds: Father and the Suicidal Teenager', 'My Friend Pang Mailang'
+
+10. **中文**: 强调长期主义，认为优质内容媒体的壁垒在于经过长期培养形成的高质量团队和系统化标准
+    **English**: Emphasizes long-termism, believes quality content media's competitive edge lies in long-term cultivation of high-quality teams and systematic standards
+
 ---
 
 ## 张晶 / Selina Zhang
