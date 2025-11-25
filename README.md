@@ -56,8 +56,6 @@ This project contains automated scripts and comprehensive research materials for
 
 ## Panel Guests
 
-### Podcast Hosts (6 guests with podcasts)
-
 1. **黄俊杰 (Junjie Huang)**
    - 晚点LatePost联合创始人兼总编辑
    - Podcast: 晚点聊 LateTalk
@@ -87,8 +85,6 @@ This project contains automated scripts and comprehensive research materials for
    - 独立媒体「正面连接」创始人
    - Podcast: 正面连接
    - Focus: In-depth non-fiction and feature storytelling
-
-### Other Guests (1 guest)
 
 7. **张晶 (Selina Zhang)**
    - 知乎副总裁
