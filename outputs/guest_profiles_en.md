@@ -89,8 +89,10 @@ For panel discussion introduction
 
 - 'Positive Connection' focuses on in-depth non-fiction and feature storytelling, with three articles garnering over 3 million cumulative reads within the first year
 - Zeng Ming and team record contemporary China's social and cultural dynamics with nuanced humanistic perspectives, presenting socially relevant issues and character stories
-- Focuses on deep content creation and humanistic care
-- Expert in non-fiction writing and feature storytelling
+- From 'Southern Weekend' to 'GQ' to 'Positive Connection', has been deeply involved in non-fiction writing for many years
+- Adheres to the creative philosophy of "facing complexity directly, not consuming emotions, not using gimmicks," committed to "giving names to nameless feelings"
+- Invests in content quality without regard to cost, believes content monetization is the only attractive business model
+- Focuses on deep content creation and humanistic care, expert in non-fiction writing and feature storytelling
 
 ---
 

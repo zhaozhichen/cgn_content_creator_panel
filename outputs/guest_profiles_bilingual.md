@@ -128,11 +128,17 @@ Bilingual guest profiles for panel introduction
 2. **中文**: 曾鸣与团队以细腻的人文视角记录当代中国的社会与文化脉动，呈现具有现实意义的社会议题与人物故事
    **English**: Zeng Ming and team record contemporary China's social and cultural dynamics with nuanced humanistic perspectives, presenting socially relevant issues and character stories
 
-3. **中文**: 关注深度内容创作和人文关怀
-   **English**: Focuses on deep content creation and humanistic care
+3. **中文**: 从《南方周末》到《GQ》再到「正面连接」，在非虚构写作领域深耕多年
+   **English**: From 'Southern Weekend' to 'GQ' to 'Positive Connection', has been deeply involved in non-fiction writing for many years
 
-4. **中文**: 擅长非虚构写作和专题叙事
-   **English**: Expert in non-fiction writing and feature storytelling
+4. **中文**: 坚持"正面面对复杂，不消费情绪，不抖包袱"的创作理念，致力于"给没有名字的感受以名字"
+   **English**: Adheres to the creative philosophy of "facing complexity directly, not consuming emotions, not using gimmicks," committed to "giving names to nameless feelings"
+
+5. **中文**: 对内容质量不计成本的投入，认为内容付费是唯一性感的商业模式
+   **English**: Invests in content quality without regard to cost, believes content monetization is the only attractive business model
+
+6. **中文**: 关注深度内容创作和人文关怀，擅长非虚构写作和专题叙事
+   **English**: Focuses on deep content creation and humanistic care, expert in non-fiction writing and feature storytelling
 
 ---
 
