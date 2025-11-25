@@ -6,7 +6,7 @@ Bilingual guest profiles for panel introduction
 
 ## 黄俊杰 / Junjie Huang
 
-**职位 / Title**: 晚点LatePost联合创始人兼总编辑 / Co-founder and Editor-in-Chief of LatePost
+**职位 / Title**: 晚点LatePost联合创始人兼总编辑（注意：他不是主播）/ Co-founder and Editor-in-Chief of LatePost (Note: He is not the podcast host)
 
 **播客 / Podcast**: 晚点聊 LateTalk
 
@@ -15,13 +15,16 @@ Bilingual guest profiles for panel introduction
 1. **中文**: 专注互联网和科技领域的深度商业报道
    **English**: Focuses on in-depth business reporting in internet and technology sectors
 
-2. **中文**: 微信公众号超过120万订阅者
+2. **中文**: 「晚点聊 LateTalk」播客专注互联网和科技领域的深度商业报道
+   **English**: The 'LateTalk' podcast focuses on in-depth business reporting in internet and technology sectors
+
+3. **中文**: 微信公众号超过120万订阅者
    **English**: Over 1.2 million WeChat subscribers
 
-3. **中文**: 2025年上半年报道观看量超过1200万次
+4. **中文**: 2025年上半年报道观看量超过1200万次
    **English**: Over 12 million views in first half of 2025
 
-4. **中文**: 播客《晚点聊》提供最一手的科技访谈
+5. **中文**: 播客《晚点聊》提供最一手的科技访谈
    **English**: Podcast 'LateTalk' delivers first-hand tech interviews
 
 ---
@@ -34,16 +37,19 @@ Bilingual guest profiles for panel introduction
 
 **亮点 / Highlights**:
 
-1. **中文**: 播客《知行小酒馆》帮助用户深化投资理解和实践长期投资
+1. **中文**: 「有知有行」是一家内容平台，旗下包括「知行小酒馆」与「无人知晓」等播客，致力于帮助用户深化投资理解与践行长期投资理念
+   **English**: Youzhi Youxing is a content platform that includes podcasts such as '知行小酒馆' and '无人知晓', dedicated to helping users deepen their understanding of investment and practice long-term investment principles
+
+2. **中文**: 其播客节目累计订阅用户超过八百万
+   **English**: The platform's podcasts have accumulated over 8 million subscribers
+
+3. **中文**: 播客《知行小酒馆》帮助用户深化投资理解和实践长期投资
    **English**: Podcast '知行小酒馆' helps users deepen investment understanding
 
-2. **中文**: 播客订阅量超过800万
-   **English**: Over 8 million podcast subscribers
-
-3. **中文**: 致力于投资理财与美好生活的结合
+4. **中文**: 致力于投资理财与美好生活的结合
    **English**: Combines investment with meaningful living
 
-4. **中文**: 擅长引导用户深度思考
+5. **中文**: 擅长引导用户深度思考
    **English**: Expert in guiding deep thinking
 
 ---
@@ -148,16 +154,28 @@ Bilingual guest profiles for panel introduction
 
 **亮点 / Highlights**:
 
-1. **中文**: 知乎是中国领先的社交问答与内容分享平台
+1. **中文**: 中国人民大学传播学硕士
+   **English**: Master's degree in Communication from Renmin University of China
+
+2. **中文**: 资深媒体人，先后供职于《经济观察报》、《彭博商业周刊》等，并曾担任《第一财经周刊》驻纽约代表，期间联合创办播客《声东击西》
+   **English**: Senior media professional who has worked for publications including 'Economic Observer' and 'Bloomberg Businessweek', and served as New York correspondent for 'CBN Weekly', during which time she co-founded the podcast '声东击西'
+
+3. **中文**: 现任职于某科技公司
+   **English**: Currently works at a technology company
+
+4. **中文**: 始终对世界保持本能的天真和好奇心
+   **English**: Maintains an instinctive innocence and curiosity about the world
+
+5. **中文**: 知乎是中国领先的社交问答与内容分享平台
    **English**: Zhihu is China's leading social Q&A and content sharing platform
 
-2. **中文**: 自2011年正式上线以来，知乎快速成长，2013年注册用户突破一千万，2015年达到一千七百万，月浏览量约两亿五千万次
+6. **中文**: 自2011年正式上线以来，知乎快速成长，2013年注册用户突破一千万，2015年达到一千七百万，月浏览量约两亿五千万次
    **English**: Since its official launch in 2011, Zhihu has grown rapidly: 10 million registered users in 2013, 17 million in 2015, with approximately 250 million monthly page views
 
-3. **中文**: 2022年，知乎实现港交所与纽交所双重上市
+7. **中文**: 2022年，知乎实现港交所与纽交所双重上市
    **English**: In 2022, Zhihu achieved dual listing on the Hong Kong Stock Exchange and New York Stock Exchange
 
-4. **中文**: 关注内容平台运营、社区建设和用户体验
+8. **中文**: 关注内容平台运营、社区建设和用户体验
    **English**: Focuses on content platform operations, community building, and user experience
 
 ---

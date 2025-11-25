@@ -6,13 +6,14 @@ For panel discussion introduction
 
 ## Junjie Huang
 
-**Title**: Co-founder and Editor-in-Chief of LatePost
+**Title**: Co-founder and Editor-in-Chief of LatePost (Note: He is not the podcast host)
 
 **Podcast**: 晚点聊 LateTalk
 
 **Highlights**:
 
 - Focuses on in-depth business reporting in internet and technology sectors
+- The 'LateTalk' podcast focuses on in-depth business reporting in internet and technology sectors
 - Over 1.2 million WeChat subscribers
 - Over 12 million views in first half of 2025
 - Podcast 'LateTalk' delivers first-hand tech interviews
@@ -27,8 +28,9 @@ For panel discussion introduction
 
 **Highlights**:
 
+- Youzhi Youxing is a content platform that includes podcasts such as '知行小酒馆' and '无人知晓', dedicated to helping users deepen their understanding of investment and practice long-term investment principles
+- The platform's podcasts have accumulated over 8 million subscribers
 - Podcast '知行小酒馆' helps users deepen investment understanding
-- Over 8 million podcast subscribers
 - Combines investment with meaningful living
 - Expert in guiding deep thinking
 
@@ -102,6 +104,10 @@ For panel discussion introduction
 
 **Highlights**:
 
+- Master's degree in Communication from Renmin University of China
+- Senior media professional who has worked for publications including 'Economic Observer' and 'Bloomberg Businessweek', and served as New York correspondent for 'CBN Weekly', during which time she co-founded the podcast '声东击西'
+- Currently works at a technology company
+- Maintains an instinctive innocence and curiosity about the world
 - Zhihu is China's leading social Q&A and content sharing platform
 - Since its official launch in 2011, Zhihu has grown rapidly: 10 million registered users in 2013, 17 million in 2015, with approximately 250 million monthly page views
 - In 2022, Zhihu achieved dual listing on the Hong Kong Stock Exchange and New York Stock Exchange
